@@ -1,0 +1,12 @@
+{
+  "name": "nobroker-student-housing",
+  "version": "1.0.0",
+  "description": "A NoBroker style student PG, hostel, and roommate finder.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
